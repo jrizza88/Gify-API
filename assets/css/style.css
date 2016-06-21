@@ -1,0 +1,19 @@
+.button {
+  color: white;
+}
+
+.gifToggle {
+  width: 100%;
+      top: 30%;
+      left: 0%;
+}
+
+.gifImage{
+      border: solid black 1px;
+      width: 120%;
+      height: 120%;
+      padding: 5px;
+      max-height: 200px;
+      max-width: 200px;
+      background-color: lightgrey;
+    }
