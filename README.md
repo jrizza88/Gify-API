@@ -1,1 +1,1 @@
-# week-6-API
+# Gify-Api created primarily with JQuery
